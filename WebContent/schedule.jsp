@@ -103,7 +103,7 @@
 		  }
 		%>
 	</table>
-	<a href="SMSController" class="btn btn-lg btn-default">MACHA DO</a>
+	<a href="SMSController" class="btn btn-lg btn-default">SEND SMSES</a>
 	<script
 		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script
